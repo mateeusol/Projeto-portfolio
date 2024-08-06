@@ -14,8 +14,8 @@
 
 ## Feito por:
 
-### Mateus Oliveira
+### Joana Santos
 
-### Linkedin: www.linkedin.com/in/mateusoliveiraguimaraes
+### Linkedin: https://www.linkedin.com/school/aluracursos/
 
 ```
